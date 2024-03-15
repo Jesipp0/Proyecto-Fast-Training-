@@ -12,5 +12,16 @@ h1{
 }
 h2{
     text-align: center;
-    
+    font-size: 20px;
+}
+header{
+    height: 20wh;
+}
+main{
+    height: 70wh;
+    width: 90%;
+    margin: auto;
+}
+footer{
+    height: 10wh;
 }
