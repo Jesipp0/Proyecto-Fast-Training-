@@ -25,3 +25,7 @@ main{
 footer{
     height: 10wh;
 }
+p{
+    text-align: justify;
+    color: aqua;
+}
